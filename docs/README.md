@@ -1,4 +1,4 @@
 # Research Wiki
 
-## Documentation
+## 📚 Documentation
 See our [research wiki](docs/README.md) for detailed sources and references.
