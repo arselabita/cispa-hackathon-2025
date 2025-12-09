@@ -24,7 +24,7 @@ Because if you suspect someone stole your model or dataset, DI helps you **prove
 
 ## How Do They Detect Theft?
 
-They look at the **prediction margin** — basically how far a sample is from a decision boundary.
+They look at the **prediction margin** basically how far a sample is from a decision boundary.
 
 You can picture it like:
 
