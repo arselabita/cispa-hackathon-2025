@@ -1,5 +1,5 @@
 ## 📚 Documentation
-See our [research wiki](docs/) for detailed sources and references.
+See our [research wiki](docs/README.md) for detailed sources and references.
 
 ### Key Research Areas
 - [Dataset Inference & Ownership](docs/dataset-inference.md)
