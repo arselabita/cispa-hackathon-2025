@@ -5,7 +5,7 @@ Sources and research for our CISPA Hackathon project on AI watermarking and mode
 
 ## Research Areas
 
-### [Dataset Inference & Ownership](dataset-inference.md)
+### [Dataset Inference & Ownership](dataset.md)
 Techniques for identifying training data origins and resolving ownership in ML models.
 
 ### [Text Attribution & Tracing](text-attribution.md)
